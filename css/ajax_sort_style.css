@@ -1,0 +1,12 @@
+#container{
+/*	border: 1px solid red;*/
+}
+#top{
+/*	border: 1px solid blue;*/
+	margin-top: 50px;
+	margin-bottom: 25px;
+	padding: 0px;
+}
+#search_form{
+	display: inline;
+}
